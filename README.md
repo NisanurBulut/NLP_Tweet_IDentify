@@ -28,4 +28,10 @@ Yapılan Ön İşlemler
 - Tırnak kullanımının kaldırılması işlemi
 - Aksan içeren Unicode kullanımların kaldırılması işlemi
 
-![Resim1-Ön İşlem Öncesi](https://github.com/NisanurBulut/NLP_Tweet_IDentify/master/Tanitim/Goruntu1_1.JPG)
+![Resim1-Ön İşlem Öncesi](https://github.com/NisanurBulut/NLP_Tweet_IDentify/master/Photos/Goruntu1.JPG)
+
+![Resim2-Ön işlem sonrası](https://github.com/NisanurBulut/NLP_Tweet_IDentify/master/Photos/Goruntu2.JPG)
+
+<b>Veri Gösterimi-Pandas Kütüphanesi</b>
+
+Twitter API kullanılarak elde edilen veriler yine bir Python kütüphanesi olan Pandas[6] kullanılarak kullanıcıya sunulmuştur. Pandas, veri analizi ve veri ön işlemeyi kolaylaştıran açık kaynak kodlu bir kütüphanedir. Dağıtık çalışmaya uygun değildir bu sebeple üzerinde işlem yapılan verinin büyüklüğü makinenin kapasitesiyle sınırlıdır özellikle de ana belleğin.
