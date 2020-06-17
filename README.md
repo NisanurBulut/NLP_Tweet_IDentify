@@ -1,4 +1,4 @@
-# NLP_Tweet_IDentify | Twwet Metin Yazar Tanıma Uygulaması
+# NLP_Tweet_IDentify | Tweet Metin Yazar Tanıma Uygulaması
 
 ## <b> Hedef </b>
 İngilizce tweet metinlerinin incelenerek, metinlerin kim tarafından yazıldığının bulunması hedeflenmiştir. Bu işlem için kullanılan ver seti, canlı olarak Twitter[1] sosyal medya platformundan sağlanmıştır.
